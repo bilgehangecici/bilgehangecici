@@ -7,8 +7,12 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
+---
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
 
 ### Connect with me:
 
@@ -17,6 +21,8 @@
 [<img align="left" alt="bilgehangecici | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
