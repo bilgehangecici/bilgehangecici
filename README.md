@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bilgehangecici Spotify Playing" width="350" />](https://open.spotify.com/user/11153360645?si=sZfOtB3ETsiuKbRJ6McjGA)
+[<img src="https://now-playing-novatorem.bgstatic.vercel.app/api/spotify-playing" alt="bilgehangecici Spotify Playing" width="350" />](https://open.spotify.com/user/11153360645)
 
 ### Connect with me:
 
