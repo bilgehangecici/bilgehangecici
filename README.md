@@ -14,7 +14,7 @@
 
 ---
 
-### Connect with me:
+### Connect with me 📠
 
 [<img align="left" alt="bilgehangecici.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,8 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools 🛠 
+
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/java/java.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/c/c.png" />
