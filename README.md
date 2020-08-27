@@ -1,8 +1,5 @@
 ### Hi there, I'm Bilgehan - aka [Bgstatic][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Instagram Follow](https://img.shields.io/instagram/follow/bilgehangecici?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/bilgehangecici/?hl=tr)
-
 ## I'm a Computer Science and Engineering Student,  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
