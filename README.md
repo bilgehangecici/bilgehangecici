@@ -50,6 +50,6 @@
 
 </details>
 
-[website]: bilgehangecici.site
+[website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
