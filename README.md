@@ -48,7 +48,7 @@
 
 ---
 
-  ## 📈 Github Stats
+  ## Github Stats 📈
 
   <img align="left" alt="Bgstatic's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bgstatic&show_icons=true&hide_border=true" />
 
