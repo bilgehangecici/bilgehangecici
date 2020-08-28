@@ -48,17 +48,12 @@
 
 ---
 
-  ## Github Stats 📈
+  ## Statistics 📈
 
-  ![Bilgehan's Github Stats](https://github-readme-stats.vercel.app/api?username=Bgstatic&count_private=true&show_icons=true&theme=dark)
+[![Stats](https://github-readme-stats-puce-alpha.vercel.app/api?username=Bgstatic&show_icons=true&line_height=40&include_all_commits=true&theme=dark)](https://github.com/Bgstatic) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=dark)](https://github.com/Bgstatic)
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 
----
-
-## Most Used Languages 🧷
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&layout=compact&theme=dark)
 
