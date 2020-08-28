@@ -51,10 +51,10 @@
   ## Statistics 📈 
                                                             
 <a href="">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits_true&theme=dark&line_height=40" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits_true&theme=dark&line_height=40" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=dark"/>
 </a>
 
 [website]: http://bilgehangecici.site/
