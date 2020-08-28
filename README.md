@@ -48,7 +48,7 @@
 
 ---
 
-  ## Statistics 📈
+ <center> ## Statistics 📈</center>                                                                  
 
 [![Stats](https://github-readme-stats-puce-alpha.vercel.app/api?username=Bgstatic&show_icons=true&line_height=40&include_all_commits=true&theme=dark)](https://github.com/Bgstatic) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=dark)](https://github.com/Bgstatic)
 
