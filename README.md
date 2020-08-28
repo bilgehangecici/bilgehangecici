@@ -50,7 +50,7 @@
 
   ## Github Stats 📈
 
-  <img align="left" alt="Bgstatic's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bgstatic&show_icons=true&hide_border=true" />
+  [![Bilgehan's Github Stats](https://github-readme-stats.vercel.app/api?username=Bgstatic)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
