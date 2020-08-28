@@ -50,7 +50,7 @@
 
   ## Github Stats 📈
 
-  [![Bilgehan's Github Stats](https://github-readme-stats.vercel.app/api?username=Bgstatic)](https://github.com/anuraghazra/github-readme-stats)
+  [![Bilgehan's Github Stats](https://github-readme-stats.vercel.app/api?username=Bgstatic)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dark&include_all_commits=true))
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
