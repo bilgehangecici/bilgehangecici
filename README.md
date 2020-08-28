@@ -50,7 +50,7 @@
 
   ## Statistics 📈 
                                                             
-[![Stats](https://github-readme-stats-puce-alpha.vercel.app/api?username=Bgstatic&show_icons=true&line_height=40&card_width=5&include_all_commits=true&theme=dark)](https://github.com/Bgstatic) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=dark)](https://github.com/Bgstatic)
+[![Stats](https://github-readme-stats-puce-alpha.vercel.app/api?username=Bgstatic&show_icons=true&line_height=40&card_width=5&include_all_commits=true&theme=dark)](https://github.com/Bgstatic) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=dark&line_height=40)](https://github.com/Bgstatic)
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
