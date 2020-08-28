@@ -55,3 +55,10 @@
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+
+---
+
+## Most Used Languages 🧷
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&layout=compact)
+
