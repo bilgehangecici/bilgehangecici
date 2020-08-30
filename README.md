@@ -16,7 +16,7 @@
       <img align="center" src="https://novatorem.bgstatic.vercel.app/api/spotify" />
     </a>
     <a href="">
-      <img align="center" src="https://media.giphy.com/media/IgEzHBZvYKaJkoAK43/giphy.gif" width= "400" height= "400"/>
+      <img align="center" src="https://media.giphy.com/media/IgEzHBZvYKaJkoAK43/giphy.gif" width= "350" height= "350"/>
     </a>
 </div
 
