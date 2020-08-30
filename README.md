@@ -13,7 +13,7 @@
 
 <div align="center"> 
      <a href="https://open.spotify.com/user/11153360645">
-      <img align="center" src="https://novatorem.bgstatic.vercel.app/api/spotify" />
+      <img align="left" src="https://novatorem.bgstatic.vercel.app/api/spotify" />
     </a>
 </div
 
