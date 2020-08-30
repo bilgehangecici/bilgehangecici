@@ -13,7 +13,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 <div align = "right"> 
-<img src="https://media.giphy.com/media/IgEzHBZvYKaJkoAK43/giphy.gif"/>
+<img src="https://media.giphy.com/media/IgEzHBZvYKaJkoAK43/giphy.gif" width="100" height"100"/>
 </div>
 
 ---
