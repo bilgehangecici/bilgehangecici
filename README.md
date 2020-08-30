@@ -11,11 +11,8 @@
 
 ### Spotify Playing 🎧
 
-<div align="left"> 
-     <a href="https://open.spotify.com/user/11153360645">
-      <img align="left" src="https://novatorem.bgstatic.vercel.app/api/spotify" />
-    </a>
-</div
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 
 ---
 
