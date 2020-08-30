@@ -11,9 +11,14 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)           <div align = "right"> 
-<img src="https://media.giphy.com/media/IgEzHBZvYKaJkoAK43/giphy.gif" width="300" height"300"/>
-</div>
+<div align="center"> 
+     <a href="https://open.spotify.com/user/11153360645">
+      <img align="center" src="https://novatorem.bgstatic.vercel.app/api/spotify" />
+    </a>
+    <a href="">
+      <img align="center" src="https://media.giphy.com/media/IgEzHBZvYKaJkoAK43/giphy.gif" />
+    </a>
+</div
 
 
 
