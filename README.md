@@ -16,7 +16,7 @@
       <img align="center" src="https://novatorem.bgstatic.vercel.app/api/spotify" />
     </a>
     <a href="https://en.wikipedia.org/wiki/Victory_Day_(Turkey)#:~:text=Victory%20Day%20(Turkish%3A%20Zafer%20Bayram%C4%B1,also%20observed%20by%20Northern%20Cyprus.">
-      <img align="center" src="https://media.giphy.com/media/Xc4dop7WgINtfqalR4/giphy.gif" width= "350" height= "350"/>
+      <img align="center" src="https://media.giphy.com/media/Xc4dop7WgINtfqalR4/giphy.gif" width= "400" height= "400"/>
     </a>
 </div
 
