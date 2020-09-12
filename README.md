@@ -22,7 +22,6 @@
 ---
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/ZZep8IXXOQTsEVh0rB/giphy.gif" />
-<br>
 
 ### Contact with me 📝
 
