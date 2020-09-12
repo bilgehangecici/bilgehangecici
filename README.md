@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/ZZep8IXXOQTsEVh0rB/giphy.gif" />
+<img align="right" alt="GIF" height="50px" src="https://media.giphy.com/media/ZZep8IXXOQTsEVh0rB/giphy.gif" />
 
 ### Contact with me 📝
 
