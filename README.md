@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/27/46/92/2746926686105239e1262ee3879c534a.gif" />
+<img align="right" alt="GIF" height="400px" src="https://i.pinimg.com/originals/27/46/92/2746926686105239e1262ee3879c534a.gif" />
 
 ### Spotify Playing 🎧
 
