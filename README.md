@@ -7,7 +7,6 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bgstatic.Bgstatic)
 ---
 
 ### Spotify Playing 🎧
