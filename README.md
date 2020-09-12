@@ -21,6 +21,8 @@
 
 ---
 
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/ZZep8IXXOQTsEVh0rB/giphy.gif" />
+
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
