@@ -23,7 +23,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" width="35px" src="https://media4.giphy.com/media/j459COejWf6yIMG0Ud/giphy.gif?cid=ecf05e47f6aff5bc79e3e2b689bf1984ac55adbebfcac607&rid=giphy.gif" />][website]
+[<img align="left" alt="bilgehangecici.site" width="45px" src="https://media4.giphy.com/media/j459COejWf6yIMG0Ud/giphy.gif?cid=ecf05e47f6aff5bc79e3e2b689bf1984ac55adbebfcac607&rid=giphy.gif" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
