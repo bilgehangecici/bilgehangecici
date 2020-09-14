@@ -1,3 +1,5 @@
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7A)
+
 ### Hi there, I'm Bilgehan - aka [Bgstatic][website] 👋
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
