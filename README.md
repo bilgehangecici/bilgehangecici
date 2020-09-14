@@ -1,4 +1,4 @@
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%0077B5)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%0077B5FF)
 
 
 ### Hi there, I'm Bilgehan - aka [Bgstatic][website] 👋
