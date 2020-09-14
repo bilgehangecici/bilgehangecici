@@ -1,6 +1,3 @@
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7A)
-
-
 ### Hi there, I'm Bilgehan - aka [Bgstatic][website] 👋
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -18,11 +15,11 @@
 
 ### Spotify Playing 🎧
 
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-
 ---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7A"/>
 
 ### Contact with me 📝
 
