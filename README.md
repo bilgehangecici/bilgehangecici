@@ -73,6 +73,13 @@
     </a>
 </div
 
+<br/>
+
+---
+
+⭐️ From [Bgstatic](https://github.com/Bgstatic)
+
+---
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
