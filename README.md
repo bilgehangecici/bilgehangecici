@@ -78,7 +78,7 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ##
+### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ###
 
 ---
 
