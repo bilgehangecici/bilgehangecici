@@ -81,6 +81,9 @@
 ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ###
 
 ---
+<p align="center">
+Show some ❤️ by starring some of the repositories!
+</p>
 
 [website]: http://bilgehangecici.site
 [instagram]: https://www.instagram.com/bilgehangecici
