@@ -67,7 +67,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&count_private=true&theme=material_palenigth&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&count_private=true&theme=material-palenigth&line_height=40" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&exclude_repo=bilgehangecici.site"/>
