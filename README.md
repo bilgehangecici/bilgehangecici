@@ -67,10 +67,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&count_private=true&theme=material-palenight&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilgehangecici&show_icons=true&count_private=true&theme=material-palenight&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=material-palenight&exclude_repo=bilgehangecici.site"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehangecici&theme=material-palenight&exclude_repo=bilgehangecici.site"/>
     </a>
 </div
 
