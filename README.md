@@ -67,6 +67,10 @@
 
 <br/>
 
+<div>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
@@ -85,10 +89,6 @@
 <p align="center">
 Show some ❤️ by starring some of the repositories!
 </p>
-
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
 
 [website]: http://bilgehangecici.site
 [instagram]: https://www.instagram.com/bilgehangecici
