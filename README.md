@@ -64,8 +64,8 @@
 ---
 
 ### Joke of the Day 🤡
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="border-bottom: 1px solid gray"/>
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
