@@ -61,8 +61,6 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
-
 ---
 
 ### Joke of the Day 🤡
@@ -70,8 +68,6 @@
 <div align="left">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-
-<br />
 
 ---
 
@@ -85,8 +81,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehangecici&theme=react&exclude_repo=bilgehangecici.site"/>
     </a>
 </div
-
-<br/>
 
 ---
 
