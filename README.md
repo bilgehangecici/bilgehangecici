@@ -65,9 +65,8 @@
 
 ### Joke of the Day 🤡
 
-<div align="left">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
