@@ -67,7 +67,7 @@
 
 <!-- Markdown -->
 <div align="left">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="padding: 10px"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="border-bottom: 1px solid gray"/>
 </div>
 
   <h2 align="center"> Github Statistics 📈 </h2>
