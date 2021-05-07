@@ -87,8 +87,7 @@ Show some ❤️ by starring some of the repositories!
 </p>
 
 <div align="center">
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 [website]: http://bilgehangecici.site
