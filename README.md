@@ -86,6 +86,10 @@
 Show some ❤️ by starring some of the repositories!
 </p>
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 [website]: http://bilgehangecici.site
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
