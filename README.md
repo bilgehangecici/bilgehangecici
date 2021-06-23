@@ -54,7 +54,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
