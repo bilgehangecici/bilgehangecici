@@ -52,7 +52,7 @@
 ![Material-UI](https://img.shields.io/badge/-Material%E2%80%93UI-0081CB?style=flat-square&logo=material-ui&style=flat-square)
 ![Chakra-UI](https://img.shields.io/badge/-Chakra%E2%80%93UI-319795?style=flat-square&logo=chakra-ui&logoColor=ffffff&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&style=flat-square)
-![Nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node&logoColor=ffffff&style=flat-square)
+![Nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodejs&logoColor=ffffff&style=flat-square)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=ffffff&style=flat-square)
