@@ -32,7 +32,7 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Languages and Tools That I Use / Familiar With 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff&style=flat-square)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff&style=flat-square)
