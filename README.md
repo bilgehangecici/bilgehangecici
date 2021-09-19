@@ -25,7 +25,7 @@
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/2859/2859732.png" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/512/725/725281.png" />][Spotify]
 
 <br />
