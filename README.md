@@ -90,13 +90,10 @@
 </div
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici" />
     </a>
 </div
-  
-  [![bilgehanss wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici)](https://github.com/anuraghazra/github-readme-stats)
 
-  
 <br>
 
 ---
