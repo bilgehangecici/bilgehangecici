@@ -87,6 +87,7 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehangecici&theme=react&exclude_repo=bilgehangecici.site"/>
     </a>
+  [![bilgehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div
 
 <br>
