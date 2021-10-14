@@ -89,9 +89,9 @@
     </a>
 </div
   
-  ---
+---
   
-  [![bilgehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![bilgehans wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 <br>
 
