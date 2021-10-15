@@ -89,7 +89,7 @@
     </a>
 </div
   
-  [![bilgehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici)](https://github.com/anuraghazra/github-readme-stats)
+  [![bilgehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici&v=2)]
 
 
 <br>
