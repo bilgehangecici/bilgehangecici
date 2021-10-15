@@ -88,7 +88,9 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgehangecici&theme=react&exclude_repo=bilgehangecici.site"/>
     </a>
 </div
-  ---
+  
+ \
+  
   <div align="center"> 
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bilgehangecici&v=2"/>
