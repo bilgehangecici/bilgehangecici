@@ -72,7 +72,7 @@
 
 ---
 
-### Joke of the Day 🤡
+### Funny Quotes 🤡
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
