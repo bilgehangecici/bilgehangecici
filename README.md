@@ -69,7 +69,7 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff&style=flat-square)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff&style=flat-square)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff&style=flat-square)
-![MacOS](http://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=macOS&logoColor=ffffff&style=flat-square)
+![MacOS](http://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macOS&logoColor=ffffff&style=flat-square)
 
 ---
 
