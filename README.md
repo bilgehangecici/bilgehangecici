@@ -104,6 +104,8 @@
 
 <p align="center">
 Show some ❤️  by starring some of the repositories!
+<br/>
+ Currently I am more active on gitlab for business purposes.    
 </p>
 
 [website]: https://bilgehangecici.dev
