@@ -104,6 +104,7 @@
 
 <p align="center">
 Show some ❤️  by starring some of the repositories!
+   Currently I am more active on gitlab for business purposes.
 <br/>
     
 </p>
