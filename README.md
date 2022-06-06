@@ -1,4 +1,4 @@
-# Hi there, I'm Bilgehan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Bilgehan
 
 ## I'm a Senior Computer Science and Engineering Student and Software Engineer
 
