@@ -1,6 +1,6 @@
 # Hi there, I'm Bilgehan
 
-## I'm a Senior Computer Science and Engineering Student and Software Engineer
+## I'm a Frontend Engineer
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
