@@ -1,6 +1,6 @@
 # Hi there, I'm Bilgehan
 
-## I'm a Frontend Engineer
+## I'm a Frontend Engineer at [Bumper](https://www.linkedin.com/company/bumper-pay)
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
