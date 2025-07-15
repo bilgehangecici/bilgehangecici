@@ -1,7 +1,5 @@
 # Hi there, I'm Bilgehan
 
-## I'm a Frontend Engineer at [Bumper](https://www.linkedin.com/company/bumper-pay)
-
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, TypeScript, React (especially Next.js) etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
